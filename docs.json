@@ -26,18 +26,6 @@
   "logo": {
     "light": "/logo/Avatar 01.svg",
     "dark": "/logo/Avatar 01.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:info@poshenergy.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://docs.poshenergy.com"
-    }
   }
+  
 }
